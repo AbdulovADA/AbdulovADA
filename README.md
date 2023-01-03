@@ -10,8 +10,11 @@
   
 ## Сертификаты Нетолгии
 
-
-  
+  * Ручное тестирование веб-приложений (https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate.pdf)
+  * GIT (https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate%20(1).pdf)
+  * Java для тестировщиков (https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate%20(2).pdf)
+  * Автоматизированное тестирование (https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate%20(3).pdf)
+  * Диплом (https://github.com/AbdulovADA/Netology-Certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
 <!--
 **AbdulovADA/AbdulovADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
