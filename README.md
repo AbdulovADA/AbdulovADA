@@ -1,4 +1,4 @@
-## Привет!
+## Привет! :wave:
 
 ### Я Влад Ильиных, тестировщик ПО
 
@@ -12,6 +12,14 @@
   * Кейс 6 [Колдунщик онлайн-перевода](https://drive.google.com/drive/folders/1572FpoN073OBXz4Sdv2XKdvvtJEx_yg5?usp=sharing)
   * Кейс 7 [Форма обратной связи](https://drive.google.com/drive/folders/139Q9GSnsFqNXw91OveyCBa24ZdEZhdyU?usp=sharing)
   * Кейс 8 [Чек-лиск тестирования приложения](https://drive.google.com/drive/folders/11y7Pt2NfO88F2ecSM3KOiR0ZPVNO_Qwi?usp=sharing)
+
+  ### Инструменты и языки
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
   ### Тесты на Java
   * Ручное тестирование [Домашние работы по ручному тестировнию на Java](https://github.com/stars/AbdulovADA/lists/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-java)
@@ -36,15 +44,16 @@
            src="https://github-readme-stats.vercel.app/api?username=AbdulovADA&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AbdulovADA/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulovADA&layout=compact"/></a>
-</p>
+  
+<p align='center'>
+   📫 How to reach me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+<p align='center'>
 
 <p align='center'>
    <a href="https://t.me/Abdulov_ADA">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
-</p>
 
 
 <!--
