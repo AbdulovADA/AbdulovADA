@@ -2,7 +2,8 @@
 
 ## Я Влад Ильиных, тестировщик ПО
 
-### Вот, что я умею:
+## Вот, что я умею:
+
   ### Тест-кейсы, тест-планы, отчеты, баг-репорты, чек-листы, MindMaps
   * Кейс 1 [Верстка сайта + облачное хранилище](https://drive.google.com/drive/folders/1W1I5cqUqgTZY-zRoxh7vFjnaJLaBQewm?usp=sharing)
   * Кейс 2 [Форма авторизации](https://drive.google.com/drive/folders/1C48KxOt2fgebb7cjq_VYFJkvmduObwuE?usp=sharing)
@@ -28,7 +29,7 @@
  ### Дипломная работа 
  * Дипломная работа [Дипломная работа по курсу Тестировщик ПО](https://github.com/stars/AbdulovADA/lists/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)
   
-## Сертификаты Нетолгии
+### Сертификаты Нетолгии
 
   * Ручное тестирование веб-приложений https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate.pdf
   * GIT https://github.com/AbdulovADA/Netology-Certificates/blob/main/certificate%20(1).pdf
@@ -46,7 +47,7 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulovADA&layout=compact"/></a>
   
 <p align='center'>
-   📫 How to reach me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
 <p align='center'>
 
 <p align='center'>
