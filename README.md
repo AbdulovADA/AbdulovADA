@@ -1,8 +1,8 @@
 ## Привет! :wave:
 
-### Я Влад Ильиных, тестировщик ПО
+## Я Влад Ильиных, тестировщик ПО
 
-## Вот, что я умею:
+### Вот, что я умею:
   ### Тест-кейсы, тест-планы, отчеты, баг-репорты, чек-листы, MindMaps
   * Кейс 1 [Верстка сайта + облачное хранилище](https://drive.google.com/drive/folders/1W1I5cqUqgTZY-zRoxh7vFjnaJLaBQewm?usp=sharing)
   * Кейс 2 [Форма авторизации](https://drive.google.com/drive/folders/1C48KxOt2fgebb7cjq_VYFJkvmduObwuE?usp=sharing)
