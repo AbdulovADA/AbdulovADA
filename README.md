@@ -12,7 +12,7 @@
   * Кейс 5 [(English) Chat window Telegram iOS](https://drive.google.com/drive/folders/1_-PgVfg0QWC9lsb4P2M7IPnpKOzPl_YB?usp=sharing)
   * Кейс 6 [Колдунщик онлайн-перевода](https://drive.google.com/drive/folders/1572FpoN073OBXz4Sdv2XKdvvtJEx_yg5?usp=sharing)
   * Кейс 7 [Форма обратной связи](https://drive.google.com/drive/folders/139Q9GSnsFqNXw91OveyCBa24ZdEZhdyU?usp=sharing)
-  * Кейс 8 [Чек-лиск тестирования приложения](https://drive.google.com/drive/folders/11y7Pt2NfO88F2ecSM3KOiR0ZPVNO_Qwi?usp=sharing)
+  * Кейс 8 [Чек-лиск тестирования анкеты](https://checkvist.com/p/xOqapUbuKUQkWWYtOM1K0D)
 
   ### Инструменты и языки
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
