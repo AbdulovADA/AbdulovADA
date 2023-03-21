@@ -13,6 +13,7 @@
   * Кейс 6 [Колдунщик онлайн-перевода](https://drive.google.com/drive/folders/1572FpoN073OBXz4Sdv2XKdvvtJEx_yg5?usp=sharing)
   * Кейс 7 [Форма обратной связи](https://drive.google.com/drive/folders/139Q9GSnsFqNXw91OveyCBa24ZdEZhdyU?usp=sharing)
   * Кейс 8 [Чек-лиск тестирования анкеты](https://checkvist.com/p/xOqapUbuKUQkWWYtOM1K0D)
+  * Кейс 9 [Баг-репорт сайта заказ еды](https://docs.google.com/spreadsheets/d/1XZoCpiSN76E8drge_d7pLrHGfRfaDbyUWbe8JJ34IZk/edit?usp=sharing)
 
   ### Инструменты и языки
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
