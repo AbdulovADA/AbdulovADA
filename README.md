@@ -1,29 +1,25 @@
 ## Привет! :wave:
 
-## Я Влад Ильиных, тестировщик ПО
+## Меня зовут Ильиных Влад. Я начинающий тестировщик ПО
 
-## Вот, что я умею:
-
-  ### Тест-кейсы, тест-планы, отчеты, баг-репорты, чек-листы, MindMaps
-  * Кейс 1 [Верстка сайта + облачное хранилище](https://drive.google.com/drive/folders/1W1I5cqUqgTZY-zRoxh7vFjnaJLaBQewm?usp=sharing)
-  * Кейс 2 [Форма авторизации](https://drive.google.com/drive/folders/1C48KxOt2fgebb7cjq_VYFJkvmduObwuE?usp=sharing)
-  * Кейс 3 [Cтраница сайта с базой пользователей](https://drive.google.com/drive/folders/1FeAx6M4WXWds3S8DvlRGSYA7RalVjpj4?usp=sharing)
-  * Кейс 4 [Страница сайта с базой данных клиентов, интерактивной картой и контактными данными](https://drive.google.com/drive/folders/1cfNcxBeGva_ewEI7Kr4evj8Aqlc8ryPk?usp=sharing)
-  * Кейс 5 [(English) Chat window Telegram iOS](https://drive.google.com/drive/folders/1_-PgVfg0QWC9lsb4P2M7IPnpKOzPl_YB?usp=sharing)
-  * Кейс 6 [Колдунщик онлайн-перевода](https://drive.google.com/drive/folders/1572FpoN073OBXz4Sdv2XKdvvtJEx_yg5?usp=sharing)
-  * Кейс 7 [Форма обратной связи](https://drive.google.com/drive/folders/139Q9GSnsFqNXw91OveyCBa24ZdEZhdyU?usp=sharing)
-  * Кейс 8 [Чек-лиск тестирования анкеты](https://checkvist.com/p/xOqapUbuKUQkWWYtOM1K0D)
-  * Кейс 9 [Баг-репорт сайта заказ еды](https://docs.google.com/spreadsheets/d/1XZoCpiSN76E8drge_d7pLrHGfRfaDbyUWbe8JJ34IZk/edit?usp=sharing)
-
-  ### Инструменты и языки
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
+  ### Что я умею:
+  * Использовать актуальные теории тестирования и тест дизайна
+  * Составлять тестовую документацию
+  * Работать с багтрекерами Atlassian Jira
+  * Работать в Postman и DevTools
+  * Работа с логами в Kibana
  
+
+  ### Мой стек:
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  Jira, Kibana, Postman, HTML, DevTools, Charles.
+  
+ ## Мои контакты:
+* E-mail: [lil.vlad7608@gmail.com]
+* Telegram: [
   
   ### Тесты на Java
   * Ручное тестирование [Домашние работы по ручному тестировнию на Java](https://github.com/stars/AbdulovADA/lists/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-java)
