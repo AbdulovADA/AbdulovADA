@@ -21,11 +21,10 @@
 
   
  ## Мои контакты:
-* E-mail: lil.vlad7608@gmail.com
-* Telegram: https://t.me/vladilinykh
-
 <p align='left'>
-   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+  <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
 <p align='left'>
 
 <p align='center'>
