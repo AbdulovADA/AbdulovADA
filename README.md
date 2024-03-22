@@ -44,21 +44,9 @@
            src="https://github-readme-stats.vercel.app/api?username=AbdulovADA&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AbdulovADA/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulovADA&layout=compact"/></a>
-  
-<p align='center'>
-   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
-   </a>
-<p align='center'>
 
 <p align='center'>
-   <a href="https://t.me/Abdulov_ADA">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
----------
-<p align='center'>
-   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+   ** 📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
 <p align='center'>
 
 <p align='center'>
