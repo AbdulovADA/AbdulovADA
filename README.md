@@ -46,7 +46,7 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulovADA&layout=compact"/></a>
   
 <p align='center'>
-   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>
+   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
    </a>
 <p align='center'>
