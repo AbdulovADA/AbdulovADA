@@ -8,6 +8,7 @@
   * Работать с багтрекерами Atlassian Jira
   * Работать в Postman, DevTools, Charles
   * Работа с логами в Kibana
+  * Применять основные операторы и функции в SQL запросах (PostgreSQL, MySQL)
  
 
   ### Мой стек:
@@ -18,11 +19,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
   
  ## Мои контакты:
 * E-mail: [lil.vlad7608@gmail.com]
-* Telegram: [
+* Telegram: [https://t.me/vladilinykh]
   
   ### Тесты на Java
   * Ручное тестирование [Домашние работы по ручному тестировнию на Java](https://github.com/stars/AbdulovADA/lists/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-java)
