@@ -6,7 +6,7 @@
   * Использовать актуальные теории тестирования и тест дизайна
   * Составлять тестовую документацию
   * Работать с багтрекерами Atlassian Jira
-  * Работать в Postman и DevTools
+  * Работать в Postman, DevTools, Charles
   * Работа с логами в Kibana
  
 
@@ -15,7 +15,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  Jira, Kibana, Postman, HTML, DevTools, Charles.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
   
  ## Мои контакты:
 * E-mail: [lil.vlad7608@gmail.com]
