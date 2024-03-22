@@ -46,7 +46,7 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulovADA&layout=compact"/></a>
 
 <p align='center'>
-   **📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+   📫 ** How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
 <p align='center'>
 
 <p align='center'>
