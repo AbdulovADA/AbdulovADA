@@ -23,6 +23,16 @@
  ## Мои контакты:
 * E-mail: lil.vlad7608@gmail.com
 * Telegram: https://t.me/vladilinykh
+
+<p align='center'>
+   📫 How to contact me: <a href='mailto:rlil.vlad7608@gmail.com'>lil.vlad7608@gmail.com</a>
+<p align='center'>
+
+<p align='center'>
+   <a href="https://t.me/vladilinykh">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
   
   ### Тесты на Java
   * Ручное тестирование [Домашние работы по ручному тестировнию на Java](https://github.com/stars/AbdulovADA/lists/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-java)
